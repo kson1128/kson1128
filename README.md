@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kson1128/kson1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Typing Test](https://github.com/kson1128/typingtest)
 
-- ⚡ Fun fact **I love the outdoors and frequently go hiking**
-
 - 👨‍💻 My projects are available at [https://www.kathyson.com/](https://www.kathyson.com/)
+
+- ⚡ Fun fact **I love the outdoors and frequently go hiking**
 
 - 📫 How to reach me **kson1128@gmail.com**
 
