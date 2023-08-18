@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full Stack developer from New York,NY</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/Lz7t73Q.jpg" alt="Profile Picture" width="200"/>
+  <img src="https://i.imgur.com/bE0DvAn.jpg" alt="Profile Picture" width="200"/>
     <img src="https://i.imgur.com/ThFlgrO.jpg" alt="Hiking Picture" width="200"/>
 </p>
 
