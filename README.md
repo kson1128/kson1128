@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://i.imgur.com/Lz7t73Q.jpg" alt="Profile Picture" width="200"/>
+    <img src="https://i.imgur.com/NPI1xJh.jpg" alt="Hiking Picture" width="200"/>
 </p>
 
 - 🔭 I’m currently working on [Weather App](https://github.com/kson1128/weather)
