@@ -25,17 +25,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **kson1128@gmail.com**
 
 <h3>Connect with me:</h3>
-  <p>
-    <a href="https://linkedin.com/in/kathy-son" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-    </a>
-    <a href="https://pin.it/7pmvq6y" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="40" width="40" style="color: #ee0627;" />
-    </a>
-    <a href="https://kathyson.com" target="_blank">
-      <img src="https://i.imgur.com/DbViFyK.png" alt="KathySon" height="40" width="40" />
-    </a>
-  </p>
+<p>
+  <a href="https://linkedin.com/in/kathy-son" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://pin.it/7pmvq6y" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="40" width="40" style="color: #ee0627;" />
+  </a>
+  <a href="https://kathyson.com" target="_blank">
+    <img src="https://i.imgur.com/DbViFyK.png" alt="KathySon" height="40" width="40" />
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
